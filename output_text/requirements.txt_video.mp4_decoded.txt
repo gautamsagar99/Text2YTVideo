@@ -1,0 +1,3 @@
+You will be prompted for a key during both encoding and decoding.
+The binary data is XOR-encrypted with your key before storing as video, and decrypted with the same key when decoding.
+This ensures only someone with the correct key can recover the original text from the video. Let me know if you want to use a stronger encryption method or need further features!
